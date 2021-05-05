@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Recommender
+comment0.text=\r\n\ Recommender\ using\ filtering\ values\ suitable\ for\ the\ recommendation\ of\ quality\ \r\n\ and\ taste\ products\ such\ as\ movies\ or\ books.\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getItemsToRate()
+comment2.params=webRaterID
+comment2.target=void\ printRecommendationsFor(java.lang.String)
+numComments=3

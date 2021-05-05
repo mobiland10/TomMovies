@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment0.text=\r\n\ loadMovies\ and\ loadRaters\ are\ two\ methods\ used\ for\ add\ data\ from\ the\ \ *\ related\ csv\ files\ into\ corresponding\ ArrayLists.\r\n\ \r\n\ \r\n\ @\ author\ Tomasz\ Wiktor\ Lakomy\ \r\n\ @\ (05.05.2021)\r\n
+comment1.params=filename
+comment1.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment2.params=filename
+comment2.target=java.util.ArrayList\ loadRaters(java.lang.String)
+numComments=3
